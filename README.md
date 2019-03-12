@@ -1,3 +1,5 @@
+Moved to gitlab: https://gitlab.com/Manjar0/ScheduledBackup
+
 # ScheduledBackup
 A simple customizable backup solution for unix platforms.
 It finds files in directories and copies them to daily or weekly directories.
